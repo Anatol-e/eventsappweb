@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Anatol-e/eventsappweb/static/css/main.264ceee9.css",
-    "main.js": "/Anatol-e/eventsappweb/static/js/main.15b2428c.js",
-    "static/media/5.jpg": "/Anatol-e/eventsappweb/static/media/5.966836d1cc2262a5f0de.jpg",
-    "static/media/1.jpg": "/Anatol-e/eventsappweb/static/media/1.0c7e4f5b3dfbf640b338.jpg",
-    "static/media/6.jpg": "/Anatol-e/eventsappweb/static/media/6.11bbcf544e2d7106d8c7.jpg",
-    "static/media/3.jpg": "/Anatol-e/eventsappweb/static/media/3.124350036276b1f9017b.jpg",
-    "static/media/2.jpg": "/Anatol-e/eventsappweb/static/media/2.9181e91eb6d9c67c4f46.jpg",
-    "static/media/4.jpg": "/Anatol-e/eventsappweb/static/media/4.791b254e300d8a619c6f.jpg",
-    "index.html": "/Anatol-e/eventsappweb/index.html",
-    "main.264ceee9.css.map": "/Anatol-e/eventsappweb/static/css/main.264ceee9.css.map",
-    "main.15b2428c.js.map": "/Anatol-e/eventsappweb/static/js/main.15b2428c.js.map"
+    "main.css": "/eventsappweb/static/css/main.264ceee9.css",
+    "main.js": "/eventsappweb/static/js/main.0608fcbc.js",
+    "static/media/5.jpg": "/eventsappweb/static/media/5.966836d1cc2262a5f0de.jpg",
+    "static/media/1.jpg": "/eventsappweb/static/media/1.0c7e4f5b3dfbf640b338.jpg",
+    "static/media/6.jpg": "/eventsappweb/static/media/6.11bbcf544e2d7106d8c7.jpg",
+    "static/media/3.jpg": "/eventsappweb/static/media/3.124350036276b1f9017b.jpg",
+    "static/media/2.jpg": "/eventsappweb/static/media/2.9181e91eb6d9c67c4f46.jpg",
+    "static/media/4.jpg": "/eventsappweb/static/media/4.791b254e300d8a619c6f.jpg",
+    "index.html": "/eventsappweb/index.html",
+    "main.264ceee9.css.map": "/eventsappweb/static/css/main.264ceee9.css.map",
+    "main.0608fcbc.js.map": "/eventsappweb/static/js/main.0608fcbc.js.map"
   },
   "entrypoints": [
     "static/css/main.264ceee9.css",
-    "static/js/main.15b2428c.js"
+    "static/js/main.0608fcbc.js"
   ]
 }
